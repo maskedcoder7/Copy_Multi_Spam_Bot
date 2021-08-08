@@ -1418,7 +1418,7 @@ async def ping(e):
         end = datetime.now()
         ms = (end-start).microseconds / 1000
         await event.edit(f"""
-    ||•𝗖𝗢𝗣𝗬𝗖𝗔𝗧 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧•||
+    |||SKYPAR ARMY||
 ╔═╗╔═╗╔═╦╗╔══╗
 ║╬║║║║║║║║║╔═╣
 ║╔╝║║║║║║║║╚╗║
@@ -1544,8 +1544,8 @@ async def help(e):
         
 text = """
 
-💥💥ᑕOᑭYᑕᗩT ᗰᑌᒪTI Տᑭᗩᗰ ᗷOT IՏ ᗩ ᗰOᗪIᖴIᗴᗪ ᐯᗴᖇՏIOᑎ Oᖴ YᑌKKI  💥💥💥
-💥💥💥💥💥💥 ᗷY ᑕOᑭYᑕᗩT   Oᑭ 💥💥💥💥💥💥"""
+💥💥UNT GUARDS ᗰᑌᒪTI Տᑭᗩᗰ ᗷOT IՏ ᗩ ᗰOᗪIᖴIᗴᗪ ᐯᗴᖇՏIOᑎ Oᖴ YᑌKKI  💥💥💥
+💥💥💥💥💥💥 ᗷY PARV UNT GUARS   Oᑭ 💥💥💥💥💥💥"""
 
 print(text)
 print("")
